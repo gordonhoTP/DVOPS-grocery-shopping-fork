@@ -4,18 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
-<style>
-
-</style>
+<title>Homepage</title>
 </head>
 <body>
 
-<h1>Grocery shit</h1>
-<a href="home.jsp">
-            <button class="btn btn-primary btn-lg">Click</button>
-        </a>
-
+<h1>Homepage</h1>
 
 </body>
 </html>

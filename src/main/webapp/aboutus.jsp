@@ -20,7 +20,7 @@ body, h1, h2, h3, h4, h5, h6 {
 			<h1 class="w3-center w3-jumbo">About</h1>
 			<p> Grocery shopping a place of convenience for everyone buying stuff .</p>
 			<p>
-				<strong>The Chef?</strong> Mr. Italiano himself<img
+				<strong>The Chef?</strong> Mr. Italy himself<img
 					src="https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png"
 					style="width: 150px" class="w3-circle w3-right" alt="Chef">
 			</p>

@@ -54,7 +54,7 @@ li a:hover {
 			<span class="w3-tag w3-xlarge">Open from 10am to 12pm</span>
 		</div>
 		<div class="w3-display-middle w3-center">
-			<span class="w3-text-white" style="font-size: 100px">Dawson'S<br>GROCERY
+			<span class="w3-text-white" style="font-size: 100px">Marisa'S<br>GROCERY
 				STORE
 			</span>
 			<p>

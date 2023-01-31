@@ -10,8 +10,7 @@
 <style>
 body {
 	margin: 0;
-	font-family: "Amatic SC", sans-serif
-	background: #f2f2f2;
+	font-family: "Amatic SC", sans-serif background : #f2f2f2;
 }
 
 h3 {
@@ -304,6 +303,27 @@ li a:hover {
 			<button class="buy-5">Buy Now</button>
 
 
+
+		</div>
+
+		<div class="content">
+
+
+
+			<img
+				src="https://www.shutterstock.com/image-photo/meat-pork-slices-loin-on-260nw-561686899.jpg"
+				alt="">
+
+			<h3>Fresh Pork</h3>
+			<p>Pork is high in protein, an excellent source of iron, zinc and
+				B vitamins and tastes wonderful too - so get some pork on your fork.</p>
+
+
+
+			<h6>$10 for 1KG</h6>
+
+
+			<button class="buy-1">Buy Now</button>
 
 		</div>
 

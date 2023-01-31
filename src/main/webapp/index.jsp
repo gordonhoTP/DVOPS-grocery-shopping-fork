@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<h1>Grocery shit</h1>
+<h1>Grocery Store</h1>
 <a href="home.jsp">
             <button class="btn btn-primary btn-lg">Click</button>
         </a>
